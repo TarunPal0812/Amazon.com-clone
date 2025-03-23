@@ -1,33 +1,35 @@
-# Amazon Clone Project
+# Celebrated Monstera - Frontend Project
 
-This project is a clone of Amazon.com, built to showcase various frontend and backend technologies. The clone aims to replicate the look and feel of the popular e-commerce website, including user interface, product listings, shopping cart functionality, and more.
+Welcome to the "Celebrated Monstera" project! This is a frontend-only web application that showcases a clean, responsive design built with HTML and CSS.
 
-## Project Screenshots
+You can view the live project here: [celebrated-monstera-a08e89.netlify.app](https://celebrated-monstera-a08e89.netlify.app)
 
-Below are some screenshots of the project:
+## Project Overview
 
-### Homepage
-![Screenshot 1](https://github.com/TarunPal0812/Amazon.com-clone/assets/143593638/15373af3-e050-4b17-888c-9e4753c85bc3)
-*The homepage showcases a layout similar to Amazon's, featuring product categories and popular deals.*
-
-### Product Listing Page
-![Screenshot 2](https://github.com/TarunPal0812/Amazon.com-clone/assets/143593638/4fc18d8e-c524-4816-8cb6-2536600895bf)
-*This page displays a variety of products available for purchase, with filters for price and category.*
-
-### Shopping Cart
-![Screenshot 3](https://github.com/TarunPal0812/Amazon.com-clone/assets/143593638/9eda92bb-0738-40c5-9cc0-4eddd5012c38)
-*The shopping cart page allows users to review their items before checkout, similar to Amazon's functionality.*
+This project aims to create an aesthetically pleasing web page inspired by nature, with a focus on a "monstera" theme. The layout is fully responsive and designed to work seamlessly across different devices, from mobile to desktop.
 
 ## Features
 
-- **Responsive Design**: The website is mobile-friendly and adjusts its layout to fit different screen sizes.
-- **User Authentication**: Users can sign in and manage their accounts.
-- **Product Search**: A search bar allows users to find products quickly.
-- **Shopping Cart**: Users can add items to their cart and proceed to checkout.
+- **Responsive Design**: The webpage automatically adjusts its layout to fit various screen sizes.
+- **Monstera Theme**: Incorporates a nature-inspired color palette and imagery.
+- **Simple Navigation**: Easy-to-use navigation elements that guide users through the content.
+- **CSS Animations**: Subtle animations to enhance the user experience.
 
 ## Technologies Used
 
-- HTML, CSS
+- **HTML**: Structured content and layout.
+- **CSS**: Styling, including Flexbox and Grid for layout, and custom styles for a clean, modern look.
+- **Responsive Design**: Media queries to ensure the site is mobile-friendly.
 
+## Live Demo
 
-Feel free to explore the features, and don't hesitate to contribute if you have any ideas or improvements!
+You can see the live demo of the project here:  
+[Live Demo: Celebrated Monstera](https://celebrated-monstera-a08e89.netlify.app)
+
+## Getting Started
+
+To run this project locally on your machine, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-username/celebrated-monstera.git
