@@ -27,19 +27,7 @@ Below are some screenshots of the project:
 
 ## Technologies Used
 
-- HTML, CSS, JavaScript
-- React.js
-- Firebase for authentication and backend services
-- Stripe API for payment integration
+- HTML, CSS
 
-## Setup Instructions
-
-1. Clone the repository.
-2. Run `npm install` to install the dependencies.
-3. Run `npm start` to start the development server.
-
-For more details, feel free to explore the full project repository.
-
----
 
 Feel free to explore the features, and don't hesitate to contribute if you have any ideas or improvements!
